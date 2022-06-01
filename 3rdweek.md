@@ -16,7 +16,7 @@ We need to have a container image that can be used as part of our GitLab CI pipe
 
 The first thing I did before starting this piece of work was ask my line manager for advice on what image to use as a base, as I wasn't sure if there as a prefered image to be used or a convention that I had not come accross yet. He advised me that Alpine linux is most commonly used here as it is a small, simple, and secure linux distribution. I managed to get python, pip, and terraform installed on the container relatively easily using apk add, however very quickly ran into difficulties when trying to install my requirements.txt file. When running pip install -Ur requirememts.txt, a certificate error was being thrown, my line manager advised me that this was to do with the security setup on my work macbook and he helped me work around it. Included in this directory is a screenshot of the dockerfile at the end of this week.
 
-![Dockerfile](https://github.com/OliverCutting/My-Diary/blob/main/3rdweek-placement/dockerfile.png?raw=true)
+![Dockerfile](https://github.com/OliverCutting/placement-diary/blob/main/3rdweek-dockerfile.png?raw=true)
 
 ## Teamwork
 
