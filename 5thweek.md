@@ -13,12 +13,12 @@ We made a good start and put most of the stages and requirements in however when
 
 ## Off the job
 
-This week for my off the job hours I have spent some time working on learning a new language. The language I chose was Go, this was because I know it is a very fast and efficient language often used in DevOps, and also often used to build DevOps tools. I started learning it by working through the Codeacademy: Learn Go course. I also spent some more time on Pluralsight making my way through the AWS Developer: Designing and Developing course. Finally I took the AWS Cloud Compute Skill Assessment where I was given the ranking of Proficient, and was also reccomended to watch the "Connecting with Amazon API Gateway" chapter of the Managing Applications in AWS course.
-
 - Codeacademy - Learn Go
 - AWS Developer: Designing and Developing
 - AWS Cloud Compute Skill Assessment - 104 Proficient
-- AWS Operations - 113 Proficient
+- AWS Operations Skill Assessment - 113 Proficient
+- AWS Application Development Skill Assessment - 115 Proficient
+- Achieved Level 1 DevOps Engineer on AWS RoleIQ on Pluralsight
 - Managing Applications in AWS: Connecting with Amazon API Gateway
 
 ## Reflection
