@@ -11,6 +11,10 @@ We made a good start and put most of the stages and requirements in however when
 ![yml part1](https://github.com/OliverCutting/placement-diary/blob/main/5thweek-ymlp1.png?raw=true)
 ![yml part2](https://github.com/OliverCutting/placement-diary/blob/main/5thweek-ymlp2.png?raw=true)
 
+## Off the job
+
+This week for my off the job hours I have spent some time working on the helsinki mooc Java Programming 1 course as I've felt a bit distant from programming the past couple weeks and was quite interested in getting back into it, and how better than to try a new language.
+
 ## Reflection
 
 I suprised myself with this task so far as I believed I was going to struggle a lot more with the pipeline construction, I think doing this ticket as a pairing session helped to boost my confidence with it which is good. Hopefully we should be able to solve our issue early next week and then move onto another ticket.
