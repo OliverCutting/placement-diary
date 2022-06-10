@@ -13,7 +13,7 @@ We made a good start and put most of the stages and requirements in however when
 
 ## Off the job
 
-This week for my off the job hours I have spent some time working on the helsinki mooc Java Programming 1 course as I've felt a bit distant from programming the past couple weeks and was quite interested in getting back into it, and how better than to try a new language.
+This week for my off the job hours I have spent some time working on the helsinki mooc Java Programming 1 course, and the CodeAcademy JavaScript course, as I've felt a bit distant from programming the past couple weeks and was quite interested in getting back into it, and how better than to try a new language. I chose Java just out of interest, its a language ive been curious about for a while, and Javascript I chose because of how often I come across Node.js, it seems like a very useful language to know. I also spent some more time on Pluralsight making my way through the AWS Developer: Designing and Developing course.
 
 ## Reflection
 
