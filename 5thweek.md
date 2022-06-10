@@ -17,7 +17,8 @@ This week for my off the job hours I have spent some time working on learning a 
 
 - Codeacademy - Learn Go
 - AWS Developer: Designing and Developing
-- AWS Cloud Compute Skill Assessment - Proficient
+- AWS Cloud Compute Skill Assessment - 104 Proficient
+- AWS Operations - 113 Proficient
 - Managing Applications in AWS: Connecting with Amazon API Gateway
 
 ## Reflection
