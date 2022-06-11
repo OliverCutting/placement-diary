@@ -14,12 +14,16 @@ We made a good start and put most of the stages and requirements in however when
 ## Off the job
 
 - Codeacademy - Learn JavaScript
+
+### Pluralsight
 - AWS Developer: Designing and Developing
 - AWS Cloud Compute Skill Assessment - 104 Proficient
 - AWS Operations Skill Assessment - 113 Proficient
-- AWS Application Development Skill Assessment - 115 Proficient
-- Achieved Level 1 DevOps Engineer on AWS RoleIQ on Pluralsight
+- AWS Application Development Skill Assessment - 118 Proficient
+- Achieved Level 1 DevOps Engineer on AWS RoleIQ
 - Managing Applications in AWS: Connecting with Amazon API Gateway
+- Monitor a Lambda Application Using CloudWatch on AWS - Lab
+- Store and Retrieve Files in an Amazon S3 Bucket - Lab
 
 ## Reflection
 
