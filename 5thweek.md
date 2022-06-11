@@ -13,7 +13,7 @@ We made a good start and put most of the stages and requirements in however when
 
 ## Off the job
 
-- Codeacademy - Learn Go
+- Codeacademy - Learn JavaScript
 - AWS Developer: Designing and Developing
 - AWS Cloud Compute Skill Assessment - 104 Proficient
 - AWS Operations Skill Assessment - 113 Proficient
