@@ -6,3 +6,4 @@
 
 - Architecting in AWS Skill IQ - 107 Proficient
 - Containers on AWS Wavelength
+- Serverless Event-based Application Architecture
