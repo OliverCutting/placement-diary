@@ -12,4 +12,10 @@ This code snippet uses the whoami shell command, then pipes it to sed -E where t
 
 ## Off the Job
 
-This week I spent a considerable amount of time completing the AWS Solutions Architect prep course on A Cloud Guru. I also started the 100DaysOfCode challenge on Udemy, starting on day 27 which had me create a simple GUI miles to km converter. All of my progress with 100DaysOfCode can be seen in my associated repo.
+This week I spent a considerable amount of time completing the AWS Solutions Architect prep course on A Cloud Guru. I also started the 100DaysOfCode course on Udemy. All of my progress with 100DaysOfCode can be seen in my associated repo.
+
+ -  AWS Solutions Architect - Associate - Completed up to Chapter 6
+ -  [100DaysOfCode repo](https://github.com/OliverCutting/100DaysOfCode)
+ -  Days; 18, 19, 20, 21, 27, and 28 completed
+ -  Docker Mastery: with Kubernetes +Swarm from a Docker Captain - Chapter 6: Container Lifetime & Persistent Data completed
+
