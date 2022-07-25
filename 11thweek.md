@@ -2,11 +2,13 @@
 
 This week I continued working on implementing kms encryption. In the end I sought help from Adam who was able to help complete the ticket. He done this by adding to the aws_kms_keys json policy, a section which granted the resource events.amazonaws.com the decrypt and generatedatakey permissions. We also added the following block of code which allowed us to add the current users aws details without hard coding them.
 
-```data "aws_caller_identity" "current" {}
+```
+data "aws_caller_identity" "current" {}
 
 output "account_id" {
   value = data.aws_caller_identity.current.account_id
-}```
+}
+```
 
 ### Off the Job
 
