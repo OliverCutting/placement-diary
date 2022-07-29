@@ -4,8 +4,8 @@ On Thursday this week I was invited to a meetup for all DevOps Engineers within 
 
 ### Off the Job
 
-A Cloud Guru - AWS Solutions Architect
-A Cloud Guru - Certified Kubernetes Administrator
-A Cloud Guru - Helm Deep Dive
-Udemy - Python: 100DaysOfCode
-Computer Systems: A Programmers Perspective - Page 75
+- A Cloud Guru - AWS Solutions Architect
+- A Cloud Guru - Certified Kubernetes Administrator
+- A Cloud Guru - Helm Deep Dive
+- Udemy - Python: 100DaysOfCode
+- Computer Systems: A Programmers Perspective - Page 75
