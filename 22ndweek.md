@@ -4,9 +4,10 @@ This week I worked on adding the NFS storage capabilities to NTCG. Due to not ha
 
 ### Off the Job
 
-I am currently working on the following courses:
+I am currently working on the following courses and reading the following books:
 
 - A Cloud Guru - AWS Solutions Architect
 - A Cloud Guru - Red Hat Certified Systems Administrator
 - A Cloud Guru - Certified Kubernetes Administrator
 - Udemy        - Python: 100DaysOfCode
+- Alan Hohn    - The Book of Kubernetes - Page 25
